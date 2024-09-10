@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Chanikya Nelapatla! 👋</h1>
-<h3 align="center">Versatile Developer | Data Science Enthusiast | Full Stack Explorer</h3>
+<h3 align="center"> Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://chane.studio" target="_blank">
