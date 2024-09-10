@@ -55,3 +55,16 @@ I love exploring new tools, languages, and frameworks. My goal is to build scala
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://leetcode.com/u/chanikyanelapatla/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/chanikyanelapatla/">
+    <img src="https://leetcard.jacoblin.cool/chanikyanelapatla?theme=dark" alt="LeetCode Stats">
+  </a>
+</p>
+---
