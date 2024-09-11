@@ -37,14 +37,13 @@
 
 ---
 
-### 🚀 My Mission
+### Foreword
 _"In this modern era, being a jack of all trades is more valuable than being a master of one, and I am that jack."_
 
 I love exploring new tools, languages, and frameworks. My goal is to build scalable, impactful tech solutions and contribute to cutting-edge projects.
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chanikkyasaai&show_icons=true&theme=radical" alt="GitHub Stats">
