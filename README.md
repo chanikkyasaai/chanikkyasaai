@@ -38,7 +38,7 @@
 ---
 
 ### Foreword
-_"In this modern era, being a jack of all trades is more valuable than being a master of one, and I am that jack."_
+_In this modern era, being a jack of all trades is more valuable than being a master of one, and I am that jack._
 
 I love exploring new tools, languages, and frameworks. My goal is to build scalable, impactful tech solutions and contribute to cutting-edge projects.
 
@@ -47,8 +47,6 @@ I love exploring new tools, languages, and frameworks. My goal is to build scala
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chanikkyasaai&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=chanikkyasaai&theme=radical" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanikkyasaai&layout=compact&theme=radical" alt="Top Languages">
 </p>
