@@ -46,7 +46,6 @@ I love exploring new tools, languages, and frameworks. My goal is to build scala
 
 
 <p align="center">
-  <img src = "https://komarev.com/ghpvc/?username=chanikkyasaai&abbreviated=true">
   <img src="https://github-readme-stats.vercel.app/api?username=chanikkyasaai&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chanikkyasaai" alt="GitHub Streak" /></a>
